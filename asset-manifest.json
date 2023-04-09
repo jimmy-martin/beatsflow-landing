@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/beatsflow-front/static/css/main.469e9301.css",
-    "main.js": "/beatsflow-front/static/js/main.bfd90b28.js",
-    "static/js/787.5bcffb6d.chunk.js": "/beatsflow-front/static/js/787.5bcffb6d.chunk.js",
-    "static/media/rectangle-47.png": "/beatsflow-front/static/media/rectangle-47.fc5c2d6c60b7bf8896b1.png",
-    "static/media/twitter.svg": "/beatsflow-front/static/media/twitter.bb2e06dd1ec6e090d8adcc7d54214876.svg",
-    "index.html": "/beatsflow-front/index.html",
-    "static/media/facebook.svg": "/beatsflow-front/static/media/facebook.2f9d8ec7448c35857858145b8177664f.svg",
-    "main.469e9301.css.map": "/beatsflow-front/static/css/main.469e9301.css.map",
-    "main.bfd90b28.js.map": "/beatsflow-front/static/js/main.bfd90b28.js.map",
-    "787.5bcffb6d.chunk.js.map": "/beatsflow-front/static/js/787.5bcffb6d.chunk.js.map"
+    "main.css": "/beatsflow.fr/static/css/main.469e9301.css",
+    "main.js": "/beatsflow.fr/static/js/main.c7f591b6.js",
+    "static/js/787.5bcffb6d.chunk.js": "/beatsflow.fr/static/js/787.5bcffb6d.chunk.js",
+    "static/media/rectangle-47.png": "/beatsflow.fr/static/media/rectangle-47.fc5c2d6c60b7bf8896b1.png",
+    "static/media/twitter.svg": "/beatsflow.fr/static/media/twitter.bb2e06dd1ec6e090d8adcc7d54214876.svg",
+    "index.html": "/beatsflow.fr/index.html",
+    "static/media/facebook.svg": "/beatsflow.fr/static/media/facebook.2f9d8ec7448c35857858145b8177664f.svg",
+    "main.469e9301.css.map": "/beatsflow.fr/static/css/main.469e9301.css.map",
+    "main.c7f591b6.js.map": "/beatsflow.fr/static/js/main.c7f591b6.js.map",
+    "787.5bcffb6d.chunk.js.map": "/beatsflow.fr/static/js/787.5bcffb6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469e9301.css",
-    "static/js/main.bfd90b28.js"
+    "static/js/main.c7f591b6.js"
   ]
 }
