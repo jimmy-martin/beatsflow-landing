@@ -1,5 +1,6 @@
 {
   "name": "beatsflow-front",
+  "homepage": "https://jimmy-martin.github.io/beatsflow-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
